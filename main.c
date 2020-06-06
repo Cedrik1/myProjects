@@ -6,7 +6,7 @@ int main() {
 
 	double x = 2;
 	double y = 3;
-	printf("%lf -%lf = %lf",x,y,mySubFcn(x,y))
+	printf("%lf -%lf = %lf", x, y, mySubFcn(x, y));
 
 
 
